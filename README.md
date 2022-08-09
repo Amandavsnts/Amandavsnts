@@ -1,7 +1,7 @@
 ## Olá, eu sou a Amanda Vieira!
 
 - 🔭 Hoje trabalho como Designer Gráfico freelancer
-- 🌱 Estudando Java
+- 🌱 Estudando Analise de Desenvolvimento de Sistemas
 - 😄 Pronouns: ela/dela
 
 <div align="center">

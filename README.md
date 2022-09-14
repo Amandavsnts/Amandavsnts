@@ -27,7 +27,7 @@
 
 
 <div> 
-  <a href="https://instagram.com/amandavsnts" target="_blank"><img align="center" height="70" width="70" src="https://img.icons8.com/nolan/344/linkedin.png" target="_blank"></a>
+  <a href="https://instagram.com/amandavsnts" target="_blank"><img align="center" height="70" width="70" src="https://img.icons8.com/nolan/344/instagram-new.png" target="_blank"></a>
   <a href = "mailto:amandavsnts@gmail.com"><img align="center" height="70" width="70" src="https://img.icons8.com/nolan/344/gmail.png"></a>
   <a href="https://www.linkedin.com/in/amandavsnts" target="_blank"><img align="center" height="70" width="70" src="https://img.icons8.com/nolan/344/linkedin.png" target="_blank"></a> 
  </div>

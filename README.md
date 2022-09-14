@@ -12,24 +12,22 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandavsnts&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-</div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Amanda-In" height="50" width="50" src="https://img.icons8.com/nolan/344/html-5.png">
-  <img align="center" alt="Amanda-In" height="50" width="50" src="https://img.icons8.com/nolan/344/css-filetype.png">
-  <img align="center" alt="Amanda-In" height="50" width="50" src="https://img.icons8.com/nolan/344/javascript.png">
-  <img align="center" alt="Amanda-In" height="50" width="50" src="https://img.icons8.com/nolan/344/git.png">
-  <img align="center" alt="Amanda-In" height="50" width="50" src="https://img.icons8.com/nolan/344/github.png">
-  <img align="center" alt="Amanda-In" height="50" width="50" src="https://img.icons8.com/nolan/344/visual-studio.png">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202207/338224_W9PqKLKi.png">
+  <img align="center" alt="Amanda-In" height="40" width="40" src="https://img.icons8.com/nolan/344/html-5.png">
+  <img align="center" alt="Amanda-In" height="40" width="40" src="https://img.icons8.com/nolan/344/css-filetype.png">
+  <img align="center" alt="Amanda-In" height="40" width="40" src="https://img.icons8.com/nolan/344/javascript.png">
+  <img align="center" alt="Amanda-In" height="40" width="40" src="https://img.icons8.com/nolan/344/git.png">
+  <img align="center" alt="Amanda-In" height="40" width="40" src="https://img.icons8.com/nolan/344/github.png">
+  <img align="center" alt="Amanda-In" height="40" width="40" src="https://img.icons8.com/nolan/344/visual-studio.png">
+  <img align="right" alt="Amanda-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202207/338224_W9PqKLKi.png">
 </div>
 
 ##
 
-
 <div> 
-  <a href="https://instagram.com/amandavsnts" target="_blank"><img align="center" height="70" width="70" src="https://img.icons8.com/nolan/344/instagram-new.png" target="_blank"></a>
-  <a href = "mailto:amandavsnts@gmail.com"><img align="center" height="70" width="70" src="https://img.icons8.com/nolan/344/gmail.png"></a>
-  <a href="https://www.linkedin.com/in/amandavsnts" target="_blank"><img align="center" height="70" width="70" src="https://img.icons8.com/nolan/344/linkedin.png" target="_blank"></a> 
+  <a href="https://instagram.com/amandavsnts" target="_blank"><img align="center" height="50" width="50" src="https://img.icons8.com/nolan/344/instagram-new.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/amandavsnts" target="_blank"><img align="center" height="50" width="50" src="https://img.icons8.com/nolan/344/linkedin.png" target="_blank"></a>
+  <a href = "mailto:amandavsnts@gmail.com"><img align="center" height="60" width="60" src="https://img.icons8.com/nolan/344/gmail.png"></a> 
  </div>
  
  <div align="center">

@@ -30,7 +30,7 @@
   <a target="_blank" href="https://instagram.com/amandavsnts"><img align="center" height="50" width="50" src="https://img.icons8.com/nolan/344/instagram-new.png"></a>
   <a target="_blank" href="https://www.linkedin.com/in/amandavsnts"><img align="center" height="50" width="50" src="https://img.icons8.com/nolan/344/linkedin.png"></a>
   <a target="_blank" href = "https://steamcommunity.com/profiles/76561198194571847/"><img align="center" height="50" width="50" src="https://img.icons8.com/nolan/344/steam--v2.png"></a> 
-  < target="_blank" a href = "https://www.twitch.tv/bfuba"><img align="center" height="50" width="50" src="https://img.icons8.com/nolan/344/twitch.png"></a> 
+  <a target="_blank" href = "https://www.twitch.tv/bfuba"><img align="center" height="50" width="50" src="https://img.icons8.com/nolan/344/twitch.png"></a> 
  </div>
  
  <div align="center">

@@ -1,8 +1,8 @@
 ## Olá, eu sou a Amanda Vieira!
 
-- <img align="center" alt="Amanda-In" height="30" width="30" src="https://img.icons8.com/nolan/344/briefcase.png"> Hoje trabalho como Designer Gráfico freelancer
-- <img align="center" alt="Amanda-In" height="30" width="30" src="https://img.icons8.com/nolan/344/multiple-devices.png"> Estudando Analise de Desenvolvimento de Sistemas
-- <img align="center" alt="Amanda-In" height="30" width="30" src="https://img.icons8.com/nolan/344/kiss-panda.png"> Pronouns: ela/dela
+- <img align="center" alt="Amanda-In" height="30" width="30" src="https://img.icons8.com/nolan/344/briefcase.png"> Sou Designer Gráfico e tenho 7 anos de experiência na área, hoje trabalho como freelancer. Fazendo transição de carreira e pretendo trabalhar com Front-End;
+- <img align="center" alt="Amanda-In" height="30" width="30" src="https://img.icons8.com/nolan/344/multiple-devices.png"> Cursando Tecnólogo em Analise e Desenvolvimento de Sistemas;
+- <img align="center" alt="Amanda-In" height="30" width="30" src="https://img.icons8.com/nolan/344/joy-con.png"> Curto jogos em geral, mas não sou muito fã de zumbis(meus grande infelizmente);
 
 <br>
 
@@ -22,12 +22,15 @@
   <img align="right" alt="Amanda-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202207/338224_W9PqKLKi.png">
 </div>
 
-##
+<br>
 
+<h2> Minhas redes: </h2>
 <div> 
+  <a href = "mailto:amandavsnts@gmail.com"><img align="center" height="60" width="60" src="https://img.icons8.com/nolan/344/gmail.png"></a> 
   <a href="https://instagram.com/amandavsnts" target="_blank"><img align="center" height="50" width="50" src="https://img.icons8.com/nolan/344/instagram-new.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/amandavsnts" target="_blank"><img align="center" height="50" width="50" src="https://img.icons8.com/nolan/344/linkedin.png" target="_blank"></a>
-  <a href = "mailto:amandavsnts@gmail.com"><img align="center" height="60" width="60" src="https://img.icons8.com/nolan/344/gmail.png"></a> 
+  <a href = "https://steamcommunity.com/profiles/76561198194571847/"><img align="center" height="50" width="50" src="https://img.icons8.com/nolan/344/steam--v2.png"></a> 
+  <a href = "https://www.twitch.tv/bfuba"><img align="center" height="50" width="50" src="https://img.icons8.com/nolan/344/twitch.png"></a> 
  </div>
  
  <div align="center">

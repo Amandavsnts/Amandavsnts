@@ -19,7 +19,7 @@
   <img align="center" alt="Amanda-In" height="40" width="40" src="https://img.icons8.com/nolan/344/git.png">
   <img align="center" alt="Amanda-In" height="40" width="40" src="https://img.icons8.com/nolan/344/github.png">
   <img align="center" alt="logo-vscode" height="40" width="40" src="https://img.icons8.com/nolan/344/visual-studio.png">
-  <img align="right" alt="Amanda-pic" height="150" style="border-radius:50px;" src="https://picrew.me/share?cd=v9jTKPtSaB">
+  <img align="right" alt="Amanda-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/Fj-cyv6WQAMgXJw?format=png&name=small"> 
 </div>
 
 <br>

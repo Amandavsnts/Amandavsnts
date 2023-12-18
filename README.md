@@ -1,6 +1,6 @@
 ## Olá, eu sou a Amanda Vieira!
 
-- <img align="center" alt="Amanda-In" height="30" width="30" src="https://img.icons8.com/nolan/344/briefcase.png"> Sou Designer Gráfico e tenho 7 anos de experiência na área, hoje trabalho como freelancer. Fazendo transição de carreira e pretendo trabalhar com Front-End;
+- <img align="center" alt="Amanda-In" height="30" width="30" src="https://img.icons8.com/nolan/344/briefcase.png"> Sou estagiária em programação Front-End na SEFAZ-SE. Também sou Designer Gráfico e tenho 7 anos de experiência na área.;
 - <img align="center" alt="Amanda-In" height="30" width="30" src="https://img.icons8.com/nolan/344/multiple-devices.png"> Cursando Tecnólogo em Analise e Desenvolvimento de Sistemas;
 - <img align="center" alt="Amanda-In" height="30" width="30" src="https://img.icons8.com/nolan/344/joy-con.png"> Curto jogos em geral, mas não sou muito fã de zumbis(meus grande infelizmente);
 
@@ -13,6 +13,7 @@
 </div>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Amanda-In" height="40" width="40" src="https://img.icons8.com/nolan/344/angularjs.png">
   <img align="center" alt="Amanda-In" height="40" width="40" src="https://img.icons8.com/nolan/344/html-5.png">
   <img align="center" alt="Amanda-In" height="40" width="40" src="https://img.icons8.com/nolan/344/css-filetype.png">
   <img align="center" alt="Amanda-In" height="40" width="40" src="https://img.icons8.com/nolan/344/javascript.png">
@@ -32,9 +33,3 @@
   <a target="_blank" href = "https://steamcommunity.com/profiles/76561198194571847/"><img align="center" height="50" width="50" src="https://img.icons8.com/nolan/344/steam--v2.png"></a> 
   <a target="_blank" href = "https://www.twitch.tv/bfuba"><img align="center" height="50" width="50" src="https://img.icons8.com/nolan/344/twitch.png"></a> 
  </div>
- 
- <div align="center">
- 
- ![snake gif](https://github.com/Amandavsnts/Amandavsnts/blob/output/github-contribution-grid-snake.svg)
- 
-</div>

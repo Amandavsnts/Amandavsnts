@@ -1,6 +1,5 @@
 ## Olá, eu sou a Amanda Vieira!
 
-- <img align="center" alt="Amanda-In" height="30" width="30" src="https://img.icons8.com/nolan/344/briefcase.png"> Sou estagiária em programação Front-End na SEFAZ-SE. Também sou Designer Gráfico e tenho 7 anos de experiência na área.;
 - <img align="center" alt="Amanda-In" height="30" width="30" src="https://img.icons8.com/nolan/344/multiple-devices.png"> Cursando Tecnólogo em Analise e Desenvolvimento de Sistemas;
 - <img align="center" alt="Amanda-In" height="30" width="30" src="https://img.icons8.com/nolan/344/joy-con.png"> Curto jogos em geral, mas não sou muito fã de zumbis(meus grande infelizmente);
 
